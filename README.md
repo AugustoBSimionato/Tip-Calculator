@@ -2,6 +2,7 @@
 
 ## About this project:
 It's a simple app to calculate the tip amount created during the google kotlin course.
+
 The project folders is on the branch master.
 
 <div align="center">
